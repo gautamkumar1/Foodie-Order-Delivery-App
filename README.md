@@ -1,21 +1,40 @@
 
 
-- I made [🚀 foodie-apps 😍](https://foodie-apps.netlify.app//) from scratch using React.js and Parcel.js, which is the part of this course.
+- I made [🚀 foodie-apps 😍](https://foodie-deliveriiy-app.netlify.app/) from scratch using React.js and Parcel.js.
+  
+## Key Features
+◉ Multi Select Cuisines Based Restaurant Filter.
 
+◉ Search Based Restaurants Filter.
 
+◉ Shimmer UI
+
+◉ CORS Extension For Fetching Swiggy Live API Data from Swiggy Public APIs.
+
+◉ Tailwind CSS 
+
+◉ Class Based Components.
+
+◉ React Router DOM for routing & navigation
+
+◉ Lazy Loading
+
+◉ Context API
+
+◉ Lifting The State Up
 
 ## To Clone this Repository
 
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 ```bash
-  git clone "https://github.com/RohitSharma50/food-orderinf-website"
+  git clone "https://github.com/gautamkumar1/Foodie-Order-Delivery-App.git"
 ```
 
 Go to the project directory
 
 ```bash
-  cd food-orderinf-website
+  cd Foodie-Order-Delivery-App
 ```
 
 Install dependencies
@@ -30,22 +49,10 @@ Start the server
   npm run start
 ```
 
- After doing this this application should now be running on `localhost`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+ After doing this this application should now be running on `localhost`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository]\
 
-# 
 
-## Key Features
-◉ Multi Select Cuisines Based Restaurant Filter.
-◉ Search Based Restaurants Filter.
-◉ Shimmer UI
-◉ CORS Extension For Fetching Swiggy Live API Data from Swiggy Public APIs.
-◉ Tailwind CSS 
-◉ Class Based Components.
-◉ React Router DOM for routing & navigation
-◉ Lazy Loading
-◉ Context API
-◉ Lifting The State Up
 
 ## 🔗 Let's Connect
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sharma50/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautamkum4r/)
